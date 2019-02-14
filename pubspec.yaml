@@ -21,8 +21,7 @@ dev_dependencies:
   # 2. add flutter icons
   # 3. add assets image - icon
   # 4. run: flutter pub get
-  # 5. run: flutter pub pub run flutter_launcher_icons:main (in project root directory)
-  flutter_launcher_icons: any
+  # 5. run: flutter packages pub run flutter_launcher_icons:main (in project root directory)
 
 flutter_icons:
   android: true
